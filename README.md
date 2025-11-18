@@ -1,0 +1,1 @@
+API REST para MindOut: backend que ofrece endpoints para autenticación, gestión de usuarios y contenidos, validación y seguridad, y manejo de sesiones. Diseñada de forma modular y escalable, facilita pruebas, documentación y despliegue en contenedores, y se integra con bases de datos para aplicaciones web y móviles. Impulso para equipos y startups.
